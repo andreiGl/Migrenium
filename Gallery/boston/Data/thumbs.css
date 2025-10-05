@@ -1,0 +1,12 @@
+div.title_div { visibility: hidden; } 
+div.subtitle_div { visibility: hidden; } 
+div.images_div { position: relative; } 
+div.links_div { } 
+div.first_div { visibility: hidden; } 
+div.last_div { visibility: hidden; } 
+div.previous_div { visibility: hidden; } 
+div.url_div { visibility: hidden; } 
+div.next_div { visibility: hidden; } 
+div.slideShowControl_div { visibility: hidden; } 
+table { table-layout: auto; } 
+td { border: 1px; padding: 0 5 0 5; }
